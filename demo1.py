@@ -5,7 +5,7 @@ from naoqi import ALProxy
 
 HumanGreeters = None
 memory = None
-pip = "NAO_IP"
+pip = "192.168.1.4"
 pport = 9559
 
 class FaceReaction(ALModule):
